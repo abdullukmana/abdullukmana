@@ -12,7 +12,3 @@ Saya seorang **Front-End Developer** yang berfokus pada pengembangan aplikasi we
 #### Hubungi Saya 📬
 
 - Email: [abdullukmana17@gmail.com](mailto:abdullukmana17@gmail.com)
-
----
-
-Terima kasih telah mengunjungi profil saya! 🚀
