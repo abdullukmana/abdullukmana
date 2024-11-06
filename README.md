@@ -1,6 +1,6 @@
 ### Halo, Saya `Abdul Lukmana` 👋
 
-Saya seorang **Front-End Developer** yang berfokus pada pengembangan aplikasi web dengan menggunakan `HTML`, `CSS`, dan `JavaScript`. Saya bersemangat untuk membangun pengalaman pengguna yang menarik dan fungsional.
+Saya seorang **Front-End Developer** pemula yang berfokus pada pengembangan aplikasi web.
 
 #### Keahlian 💻
 
