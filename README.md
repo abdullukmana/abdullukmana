@@ -12,3 +12,7 @@ Saya seorang **Front-End Developer** yang berfokus pada pengembangan aplikasi we
 #### Hubungi Saya 📬
 
 - Email: [abdullukmana17@gmail.com](mailto:abdullukmana17@gmail.com)
+
+#### Progress
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65bb29910c5481228371e2cd?variant=light&roadmaps=frontend)](https://roadmap.sh)
