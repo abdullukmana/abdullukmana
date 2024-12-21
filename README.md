@@ -7,7 +7,6 @@ Saya seorang **Front-End Developer** pemula yang berfokus pada pengembangan apli
 - **HTML**: Membuat struktur halaman web yang semantik dan terorganisir dengan baik.
 - **CSS**: Desain responsif dan pemrograman gaya untuk pengalaman pengguna yang menyenangkan.
 - **JavaScript**: Membangun logika dan interaktivitas dinamis dalam aplikasi web.
-- **Git & GitHub**: Mengelola proyek dan versi menggunakan kontrol versi.
 
 #### Hubungi Saya 📬
 
